@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\school\\HelloWorldApp\\HelloWorldApp.csproj": {}
+    "d:\\school\\HelloWorldApp\\HelloWorldApp.csproj": {}
   },
   "projects": {
-    "D:\\school\\HelloWorldApp\\HelloWorldApp.csproj": {
+    "d:\\school\\HelloWorldApp\\HelloWorldApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\school\\HelloWorldApp\\HelloWorldApp.csproj",
+        "projectUniqueName": "d:\\school\\HelloWorldApp\\HelloWorldApp.csproj",
         "projectName": "HelloWorldApp",
-        "projectPath": "D:\\school\\HelloWorldApp\\HelloWorldApp.csproj",
+        "projectPath": "d:\\school\\HelloWorldApp\\HelloWorldApp.csproj",
         "packagesPath": "C:\\Users\\minnk\\.nuget\\packages\\",
-        "outputPath": "D:\\school\\HelloWorldApp\\obj\\",
+        "outputPath": "d:\\school\\HelloWorldApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minnk\\AppData\\Roaming\\NuGet\\NuGet.Config"
